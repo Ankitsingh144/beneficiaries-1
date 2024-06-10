@@ -1,0 +1,18 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+# Testing directories
+/coverage
+# Production build directory
+/build
+# Development server files
+/.cache
+/.env
+# IDE/editor directories
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
