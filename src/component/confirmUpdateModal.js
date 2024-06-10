@@ -10,7 +10,7 @@ const ConfirmUpdateModal = ({ show, onClose, onConfirm, beneficiary, title = "Ar
             <div className="modal-dialog">
                 <div className="modal-content">
                     <div className="modal-header">
-                        <h5 className="modal-title">Confirm Delete</h5>
+                        <h5 className="modal-title">Confirm ?</h5>
                         <button type="button" className="btn-close" aria-label="Close" onClick={onClose}>  X</button>
                     </div>
                     <div className="modal-body">
